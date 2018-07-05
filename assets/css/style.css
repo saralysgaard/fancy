@@ -2,21 +2,22 @@
 
 body {
   background-color: #FFFFFF;
-  font-family: "Sarina"
-
+  font-family: "Sarina";
+  height: 200vh;
+  margin: 0;
+  padding: 0;
 }
 
-img {
-  position: absolute;
-  width: 100vw;
-  left: 0;
-  top: 0;
-  z-index: -1;
+.top {
+  opacity: 1;
+  background-image: url(../img/fjell.png);
+  background-size: cover;
+  height: 100vh;
+  padding-top: 3rem;
 }
 
 .top_type h1 {
-  margin-top: 5rem;
   text-align: center;
   font-size: 4.5em;
-  color: #122530
+  color: #122530;
 }
