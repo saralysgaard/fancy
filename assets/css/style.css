@@ -1,5 +1,8 @@
 @charset "UTF-8";
-
+@font-face {
+  font-family: futura;
+  src: url(assets/fonts/futur.ttf);
+}
 body {
   background-color: #FFFFFF;
   font-family: "Sarina";
