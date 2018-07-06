@@ -20,9 +20,31 @@ body {
 .top_type h1 {
   text-align: center;
   font-size: 4.5em;
-  color: #122530;
+  color: #000000;
 }
 
 .middle {
-  margin-top: -10em;
+  margin-top: -15rem;
+  font-family: "futura";
+}
+
+.middle_type {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+  font-size: 3em
+}
+
+.middle img {
+  width: 100%;
+}
+
+.about_img {
+  margin: -3em auto 0 auto;
+  width: 50%;
+}
+
+.about_text {
+  margin: 0 auto;
+  width: 50%
 }
