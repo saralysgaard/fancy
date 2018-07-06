@@ -1,8 +1,5 @@
 @charset "UTF-8";
-@font-face {
-  font-family: tibias;
-  src: url(../fonts/futur.ttf);
-}
+
 body {
   background-color: #FFFFFF;
   font-family: "Sarina";
@@ -28,7 +25,7 @@ body {
 
 .middle {
   margin-top: -15rem;
-  font-family: "tibias";
+  font-family: "Comfortaa";
 }
 
 .middle_type {
