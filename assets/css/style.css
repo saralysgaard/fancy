@@ -53,12 +53,22 @@ body {
 
 .button {
   border: 2px #000 solid;
-  padding: 1em 0;
+  padding: 1rem 0;
   text-decoration: none;
   color: #000;
   width: calc(100%-4px);
   text-align: center;
   display: block;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  border-radius: 50px;
+  font-size: 1.5em;
+}
+
+.button:hover {
+  background-color: #232323;
+  color: #FFF;
+  transition: background 350ms ease, color 350ms ease;
 }
 
 .knapp {
