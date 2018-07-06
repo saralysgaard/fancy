@@ -26,6 +26,8 @@ body {
 .middle {
   margin-top: -15rem;
   font-family: "Allerta";
+  position: relative;
+  z-index: 2
 }
 
 .middle_type {
