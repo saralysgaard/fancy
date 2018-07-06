@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
-  font-family: sara;
-  src: url(assets/fonts/futur.ttf);
+  font-family: futura;
+  src: url(../fonts/futur.ttf);
 }
 body {
   background-color: #FFFFFF;
